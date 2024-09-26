@@ -1,3 +1,5 @@
 env*
 __jac_gen__
 token
+.jac*
+chroma
