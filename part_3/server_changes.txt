@@ -1,0 +1,8 @@
+1. I added a new chat type called GUIDANCE that handles conversations that are more instructional, 
+helping users navigate through a series of steps or providing personalized advice.
+
+2. I decided that GuidanceChat can use gemma2 since that seemed to provide more instructional
+over Llama3.1. It was also much friendlier than Llama3.1
+
+3. The chatbout will route messages that require more instructions or start with a prompt like how
+or what instructions.
